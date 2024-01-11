@@ -27,6 +27,8 @@ p {
     margin-left: 3%;
 }
 img {
-    display: flex;
+    text-align: center;
+    text-decoration: underline;
+    width: 100%;
     
 }
