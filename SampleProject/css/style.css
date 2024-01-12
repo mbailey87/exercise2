@@ -1,9 +1,8 @@
 body {
-    background-color: rgb(216, 123, 123);
+    background-color: rgb(93, 89, 89);
 }
 h1, h2 {
     text-align: center;
-    text-decoration: underline;
     width: 100%;
 }
 h2 {
@@ -19,7 +18,6 @@ a {
 h3 {
     font-size: xx-large;
     width: 100%;
-    text-decoration: underline;
     margin-left: 3%;
 }
 p {
